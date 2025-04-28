@@ -1,0 +1,3 @@
+@url = https://symmetrical-xylophone-jjqvgj975p7j39pj-3000.app.github.dev
+
+GET {{url}}/api/v1/generos
